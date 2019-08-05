@@ -1,0 +1,585 @@
+/*--------------MENU DE HAMBURGUESA--------------*/
+@media screen and (max-width:800px ) {
+
+	header nav {
+		background: rgba(0,0,0,.46);
+		width:70%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		z-index:1000;
+		position: fixed;
+		overflow: hidden;
+		margin-top: 100px;
+	}
+	header nav ul li{
+		display: block;
+		display:inline-block;
+		position: relative;
+	}
+	header nav ul li a{
+		display: block;
+	}
+	.menu_bar {
+		display:block;
+		width:100%;
+		position: fixed;
+		top:0;
+	}
+	.menu_bar .bt-menu {
+	display: block;
+	overflow: hidden;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 90%;
+	margin-top: 5%;
+}
+#rayas{
+	width: 80%;
+}
+	
+	.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	
+
+/*
+----------------SECTION knowme----------------
+*/
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:80%;
+	line-height: 150%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+
+#expli1{
+	font-size:80%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:80%;
+	line-height: 150%;
+}
+/*
+----------------VOLVERK----------------
+*/
+.fixed{
+	display: none;
+}
+
+}@media screen and (max-width:700px ) {
+
+	header nav {
+		background: rgba(0,0,0,.46);
+		width:70%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		z-index:1000;
+		position: fixed;
+		overflow: hidden;
+		margin-top: 100px;
+	}
+	header nav ul li{
+		display: block;
+		display:inline-block;
+		position: relative;
+	}
+	header nav ul li a{
+		display: block;
+	}
+	.menu_bar {
+		display:block;
+		width:100%;
+		position: fixed;
+		top:0;
+	}
+	.menu_bar .bt-menu {
+	display: block;
+	overflow: hidden;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 90%;
+	margin-top: 5%;
+}
+#rayas{
+	width: 80%;
+}
+	
+	.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	
+
+/*
+----------------SECTION knowme----------------
+*/
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:80%;
+	line-height: 150%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+
+#expli1{
+	font-size:80%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:80%;
+	line-height: 150%;
+}
+
+}
+@media screen and (max-width:600px ) {
+
+	header nav {
+		background: rgba(0,0,0,.46);
+		width:80%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		z-index:1000;
+		position: fixed;
+		overflow: hidden;
+	}
+	header nav ul li{
+		display: block;
+		display:inline-block;
+		position: relative;
+	}
+	header nav ul li a{
+		display: block;
+	}
+	.menu_bar {
+		display:block;
+		width:100%;
+		position: fixed;
+		top:0;
+	}
+	.menu_bar .bt-menu {
+	display: block;
+	overflow: hidden;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 90%;
+	margin-top: 5%;
+}
+#rayas{
+	width: 80%;
+}
+	
+	.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	
+
+/*
+----------------SECTION knowme----------------
+*/
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:70%;
+	line-height: 150%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+
+#expli1{
+	font-size:70%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:70%;
+	line-height: 150%;
+}
+
+}
+@media screen and (max-width:500px ) {
+	header nav {
+		width:70%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		position: fixed;
+		overflow: hidden;
+	}
+	header nav ul li{
+		display: block;
+	}
+	header nav ul li a{
+		display: block;
+	}
+	.menu_bar {
+		display:block;
+		width:100%;
+		top: 0;
+	}
+	.menu_bar .bt-menu {
+		width: 70px;
+		display:block;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		margin-top: 7%;
+
+	}
+	#rayas{
+	width: 60%;
+}
+.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	/*
+----------------SECTION knowme----------------
+*/
+
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:60%;
+	line-height: 150%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+h4{
+	font-size:70%;
+}
+.title2{
+	width: 50%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size:70%;
+}
+#expli1{
+	font-size:60%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:60%;
+	line-height: 150%;
+}
+/*
+----------------SECTION CONTACTO----------------
+*/
+.for{
+	width: 80%;
+	margin-left: 10%;
+}
+}
+@media screen and (max-width:400px ) {
+	header nav {
+		width:70%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		position: fixed;
+		overflow: hidden;
+	}
+	header nav ul li{
+		display: block;
+	}
+	header nav ul li a{
+		display: block;
+	}
+		.menu_bar {
+		display:block;
+		width:100%;
+		top: 0;
+	}
+	.menu_bar .bt-menu {
+		width: 70px;
+		display:block;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+		margin-top: 9%;
+
+	}
+	#rayas{
+	width: 40%;
+}
+.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	/*
+----------------SECTION knowme----------------
+*/
+.div-me{
+	width: 100%;
+	float: left;
+}
+.div-textme{
+	width: 100%;
+	float: left;
+	text-align: justify;
+
+}
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 15%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:95%;
+	line-height: 150%;
+
+}
+/*
+----------------SECTION WORK----------------
+*/
+
+h4{
+	font-size:95%;
+}
+.title2{
+	width: 50%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size:80%;
+}
+.img-desing{
+	width: 100%;
+	float: left;
+	margin-left: 0;
+	margin-bottom: 5%;
+}
+
+.img-sql{
+	width: 100%;
+	float: left;
+}
+#expli1{
+	font-size:90%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:90%;
+	line-height: 150%;
+}
+/*
+----------------SECTION CONTACTO----------------
+*/
+.for #button{
+	width: 30%;
+	height: 40px;
+	color: #fff;
+
+}
+}
+@media screen and (max-width:300px ) {
+	header nav {
+		width:80%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		position: fixed;
+		overflow: hidden;
+	}
+	header nav ul li{
+		display: block;
+	}
+	header nav ul li a{
+		display: block;
+	}
+		.menu_bar {
+		display:block;
+		width:100%;
+		top: 0;
+	}
+	.menu_bar .bt-menu {
+		width: 70px;
+		display:block;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+	}
+	#rayas{
+	width: 30%;
+}
+.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	#title{
+	width: 50%;	
+	font-size: 80%;
+	margin-top: 30%;
+	margin-bottom: 30%;
+}
+		/*
+----------------SECTION knowme----------------
+*/
+.div-me{
+	width: 100%;
+	float: left;
+}
+.div-textme{
+	width: 100%;
+	float: left;
+	text-align: justify;
+}
+
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 15%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:70%;
+	line-height: 150%;
+	margin-bottom: 10%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+h4{
+	font-size:70%;
+}
+.title2{
+	width: 50%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size:70%;
+}
+.img-desing{
+	width: 100%;
+	float: left;
+	margin-left: 0;
+	margin-bottom: 5%;
+}
+
+.img-sql{
+	width: 100%;
+	float: left;
+}
+#expli1{
+	font-size:70%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:70%;
+	line-height: 150%;
+}
+
+
+}
+@media screen and (max-width:200px ) {
+	header nav {
+		width:80%;
+		right: 100%;
+		height: calc(100% - 80px)
+		margin:0;
+		position: fixed;
+		overflow: hidden;
+	}
+	header nav ul li{
+		display: block;
+	}
+	header nav ul li a{
+		display: block;
+	}
+		.menu_bar {
+		display:block;
+		width:100%;
+		top: 0;
+	}
+	.menu_bar .bt-menu {
+		width: 70px;
+		display:block;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+
+	}
+	#rayas{
+	width: 20%;
+	}
+	.menu_bar .bt-menu:hover{
+		cursor: pointer;
+		-webkit-transform: scale(1.3, 1.3); 
+	}
+	#title{
+	width: 50%;	
+	font-size: 50%;
+	margin-top: 30%;
+	margin-bottom: 30%;
+}
+/*
+----------------SECTION knowme----------------
+*/
+.div-me{
+	width: 100%;
+	float: left;
+}
+.div-textme{
+	width: 100%;
+	float: left;
+	text-align: justify;
+}
+.div-textme1{
+	width: 80%;
+	padding: 2%;
+	margin-top: 15%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size:5%;
+	line-height: 150%;
+}
+/*
+----------------SECTION WORK----------------
+*/
+h4{
+	font-size:5%;
+}
+.title2{
+	width: 50%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-size:5%;
+}
+#expli1{
+	font-size:5%;
+	line-height: 150%;
+}
+#expli2{
+	font-size:5%;
+	line-height: 150%;
+}
+/*
+----------------SECTION CONTACTO----------------
+*/
+.for #button{
+	width: 30%;
+	height: 40px;
+	color: #fff;
+
+}
+}
